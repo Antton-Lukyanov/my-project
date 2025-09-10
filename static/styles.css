@@ -38,3 +38,16 @@ button {
     border-radius: 10px;
     background-color: aqua;
 }
+
+button:hover {
+    background-color: cornflowerblue;
+}
+
+#ContactForm {
+    padding: 5px;
+    margin: 10px;
+    border: 3px solid plum;
+    border-radius: 10px;
+    max-width: 250px;
+    background-color: darkgrey;
+}
