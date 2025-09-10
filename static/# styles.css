@@ -1,0 +1,15 @@
+/* данные стили примерняются ко всем компонентам 
+Убираем все отступы*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+input, button {
+    border: none;
+    outline: none;
+    font-family: inherit;
+    font-size: inherit;
+
+}
