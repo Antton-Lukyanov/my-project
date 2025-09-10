@@ -1,9 +1,16 @@
 /* данные стили примерняются ко всем компонентам 
 Убираем все отступы*/
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+body {
+    background-image: url("image/foto.webp");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 input, button {
